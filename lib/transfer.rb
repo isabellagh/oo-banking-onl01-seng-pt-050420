@@ -32,7 +32,7 @@ class Transfer
       self.status = "reversed"
     else
       self.status = "rejected"
-      "Transaction rejected. Please check your account balance.  
+      "Transaction rejected. Please check your account balance."
     end
   end
   
