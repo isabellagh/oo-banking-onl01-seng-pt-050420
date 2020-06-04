@@ -1,6 +1,7 @@
 class Transfer
   
-  attr_accessor
+  attr_accessor :bank_account
+  
   
   def initialize
     
